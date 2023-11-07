@@ -152,14 +152,14 @@ Para utilizar o código fornecido e implementar o projeto de eficiência energé
 
 **1. Componentes Necessários**
 
-- ESP32 (ou outro microcontrolador compatível)
-- Sensor LDR (Light Dependent Resistor)
-- Sensor DHT11 (ou outro sensor de temperatura e umidade)
-- Sensor PIR (Sensor de Presença)
-- LED
-- Servo Motor
-- Conexão Wi-Fi
-- Plataforma IoT (como Fiware, para a camada de back-end)
+- ESP32 (ou outro microcontrolador compatível);
+- Sensor LDR (Light Dependent Resistor);
+- Sensor DHT11 (ou outro sensor de temperatura e umidade);
+- Sensor PIR (Sensor de Presença);
+- LED;
+- Servo Motor;
+- Conexão Wi-Fi;
+- Plataforma IoT (como Fiware, para a camada de back-end).
 
 **2. Configuração do Ambiente de Desenvolvimento:**
 
