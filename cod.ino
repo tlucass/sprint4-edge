@@ -1,4 +1,3 @@
-[Yesterday 8:37 AM] Lucas Palamartschuk de Toledo
 //Autor: Fábio Henrique Cabrini
 //Resumo: Esse programa possibilita ligar e desligar o led onboard, além de mandar o status para o Broker MQTT possibilitando o Helix saber
 //se o led está ligado ou desligado.
